@@ -4,10 +4,9 @@ a:link {
 }
 
 body {
-  
   font-family: Times New Roman, Georgia, sans-serif;
   margin: 5% 35%;
-  background-color: ghostwhite;
+  background-color: #f0f0f0;
 }
 
 div.bg {
