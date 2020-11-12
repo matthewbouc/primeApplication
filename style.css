@@ -1,5 +1,5 @@
 a:link {
-  color: blue;
+  color: #338533;
   text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ div.bg {
   word-spacing: 5px;
   border-top: 1px solid black;
   border-bottom: 1px solid gray;
-  background-color: silver;
+  background-color: #ccd6cc;
   padding-left: 10px;
   line-height: 0.25;
 }
