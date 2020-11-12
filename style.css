@@ -1,27 +1,40 @@
 body {
-  background-color: #dddddd;
+  background-image: url("https://primeacademy.io/resume/ApplicationExampleDesignPlus/noise.png");
   color: #444444;
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;   
+  font-family: Times New Roman, Georgia, sans-serif;
+  margin: 5% 35%;
 }
 
+.header-name {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.35em;
+  line-height: 0.1;
+}
+
+.contact {
+  padding-left: 35px;
+  padding-right: 35px;
+}
 
 .section-header {
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   font-weight: bold;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.6px;
   word-spacing: 5px;
   border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid gray;
   background-color: rgba(0,0,0, 0.1);
+  padding-left: 10px;
+  line-height: 0.25;
 }
 
 
 .pos-company {
-  text-decoration: underline;
   line-height: 50%;
   font-weight: bold;
+  padding-left: 10px;
 }
 
 
@@ -29,30 +42,20 @@ body {
   line-height: 0.1;
   font-style: italic;
   font-size: 0.95em;
-}
-
-
-.pos-date {
-  line-height: 0.1;
-  text-align: right;
-  font-size: 0.8em;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 
 .edu-univ {
   font-weight: bold;
+  padding-left: 10px;
 }
 
 
 .edu-degree {
-  font-size: 0.9em;
-  font-style: italic;
+  padding-right: 10px;
+  line-height: 0.5;
+  font-size: 0.9;
 }
 
-
-.edu-date {
-  font-size: 0.8em;
-  text-align: right;
-  font-style: italic;
-  line-height: 0.1;   
-}
