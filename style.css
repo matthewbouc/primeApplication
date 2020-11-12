@@ -4,7 +4,7 @@ a:link {
 }
 
 body {
-  background-image: url("PilferedNoise.png");
+  background-image: url(pilferednoise.png);
   color: black;
   font-family: Times New Roman, Georgia, sans-serif;
   margin: 5% 35%;
