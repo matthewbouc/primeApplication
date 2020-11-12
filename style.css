@@ -1,3 +1,8 @@
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
 body {
   background-image: url("https://primeacademy.io/resume/ApplicationExampleDesignPlus/noise.png");
   color: #444444;
@@ -25,7 +30,7 @@ body {
   word-spacing: 5px;
   border-top: 1px solid black;
   border-bottom: 1px solid gray;
-  background-color: rgba(0,0,0, 0.1);
+  background-color: silver;
   padding-left: 10px;
   line-height: 0.25;
 }
@@ -58,4 +63,3 @@ body {
   line-height: 0.5;
   font-size: 0.9;
 }
-
